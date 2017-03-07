@@ -1,4 +1,4 @@
-Name: sxp-dummy
+Name: %{name}
 Version:  %{version}
 Release:  %{release}%{?dist}
 Summary:  dummy rpm packg
