@@ -8,7 +8,7 @@ URL:   None
 Source:  sxp-dummy.tar
 
 %description
-dummy rpm image
+build dummy rpm
 
 %prep
 %setup -n sxp-dummy
